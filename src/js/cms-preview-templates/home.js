@@ -58,7 +58,7 @@ export default class PostPreview extends React.Component {
           </div>
 
           <div className="tc">
-            <a href="{{.buttonLink}}" className="btn raise">Read more</a>
+            <a href="{{.buttonLink}}" className="btn raise">All Posts</a>
             <ScrollUpButton />
           </div>
 
