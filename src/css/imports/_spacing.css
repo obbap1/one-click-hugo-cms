@@ -111,6 +111,11 @@
   padding-left: var(--spacing-extra-extra-large);
   padding-right: var(--spacing-extra-extra-large);
 }
+@media(max-width: 700px){
+  .ph6{
+    padding: 0;
+  }
+}
 
 .ph7 {
   padding-left: var(--spacing-extra-extra-extra-large);
