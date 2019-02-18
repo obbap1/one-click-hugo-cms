@@ -125,7 +125,7 @@
 
 </div>
 
-<form name = "mailingList" data-netlify="true" class="flex-ns mb3">
+<form name = "mailingList" data-netlify="true" class="flex-ns mb3" netlify>
 
   <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter" >
     <input type="text" id="email" placeholder="Your email" class="w-100">
@@ -155,7 +155,7 @@
   }
 
   submitButton.addEventListener('click',(e) => {
-    e.preventDefault();
+    //e.preventDefault();
     showSpinner();
     //Check for valid mail
     if(regex.test(document.getElementById("email").value)){
