@@ -1,4 +1,4 @@
-<form action="" class="flex-ns mb3">
+<form name = "mailingList" data-netlify="true" class="flex-ns mb3">
 
   <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter" >
     <input type="text" id="email" placeholder="Your email" class="w-100">
@@ -21,7 +21,10 @@
   submitButton.addEventListener('click',(e) => {
     e.preventDefault();
     //Check for valid mail
-    if(regex.test(document.getElementById("email").value)) initialize();
+    if(regex.test(document.getElementById("email").value)){
+      alert("Submitting...");
+      setTimeout(() => {alert("Thanks for signing up!")},1000);
+    }
   });
   let initialize = () => {
     //Load google api
