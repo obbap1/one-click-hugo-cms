@@ -16,7 +16,6 @@ Our opinions of both good and evil in this world poses a great burden to the dec
 
 ## THE WAY FORWARD IN MY “PERSPECTIVE” ?
 
-
 _Trying to change how you perceive a situation and how to respond in given circumstances is an acclivitous task, it’s totally uphill FAM!. If you feel that you have a perfect decision making machine taking a comfy residence in your 3 pounds brains, sipping some hot coffee when the winter is finally here, though not perfectly engaged in disbursing accurate decisions, you would never see the need to change.
 _
 
@@ -36,4 +35,4 @@ As little a perspective as consciously not dumping pet materials into our ground
 
 Thank you for starting this journey with us.
 
-**SUBSCRIBE** to our **Newsletters** and Follow on all of the social media platforms so you do not miss out on any new content.
+**SUBSCRIBE** to our **Newsletters** **below** and Follow on all of the social media platforms so you do not miss out on any new content.
