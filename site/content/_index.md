@@ -1,6 +1,6 @@
 ---
-title: "Owoniyi Adedoyin J."
-subtitle: My thoughts, in writing... ✍🏿
+title: "The Wallflower Journal"
+subtitle: Personal blog by Doyin Owoniyi.
 image: /img/modern.jpg
 ---
 
