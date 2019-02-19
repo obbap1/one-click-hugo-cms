@@ -36,3 +36,5 @@ As little a perspective as consciously not dumping pet materials into our ground
 Thank you for starting this journey with us.
 
 **SUBSCRIBE** to our **Newsletters** **below** and Follow on all of the social media platforms so you do not miss out on any new content.
+
+Originally published on medium on 07/03/2017
