@@ -1,6 +1,6 @@
 ---
 title: A little perspective could change our world.
-date: 2017-07-03T08:00:00.000Z
+date: 2019-01-03T08:00:00.000Z
 description: >-
   A perspective is the most innocent right with which we have all been blessed.
   It is the cornerstone upon which our societal and moral laws have been carved.
