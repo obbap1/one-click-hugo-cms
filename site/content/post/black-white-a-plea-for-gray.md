@@ -1,11 +1,7 @@
 ---
 title: 'Black|White; A plea for gray '
 date: 2019-02-26T12:13:36.907Z
-description: >-
-  Colors, beautiful as they may be are so intricately complex that there are
-  over 10 million of them, your computer screen can produce about 16.8 million
-  colors. The ratio of unknown colors to hair strands would probably result in a
-  very large improper fraction.
+description: a b c
 image: /img/yinyang.png
 ---
 The spectrum is so wide that Psycho-physicists have taken careful measurements of the human visual system and found out that humans can only see about a thousand levels of Light-Dark, hundred levels of Red-Green and hundred levels of Yellow-Blue for a single viewing condition in a laboratory. I.e 1000\*100\*100= 10,000,000 for each human. If all the factors that determine color perception are put into cognizance, we could have a spectrum which imitates the number line. 
