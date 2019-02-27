@@ -5,14 +5,14 @@ description: >-
   Colors, beautiful as they may be are so intricately complex that there are
   over 10 million of them, your computer screen can produce about 16.8 million
   colors. The ratio of unknown colors to hair strands would probably result in a
-  very large improper fraction. 
+  very large improper fraction.
 image: /img/yinyang.png
 ---
 The spectrum is so wide that Psycho-physicists have taken careful measurements of the human visual system and found out that humans can only see about a thousand levels of Light-Dark, hundred levels of Red-Green and hundred levels of Yellow-Blue for a single viewing condition in a laboratory. I.e 1000\*100\*100= 10,000,000 for each human. If all the factors that determine color perception are put into cognizance, we could have a spectrum which imitates the number line. 
 
 I am young, gray and unconventional, you should be too. Our world is not White, neither is it Black, it's gray, ageing and surviving. Situations are not just all good or all evil, these terms are relative, hence every area is a gray area. In our known universe there are no absolute values, no absolute truths.
 
-The TAO; which is a philosophical/religious tradition with its origin in china depicts our world almost perfectly. It's popularly known as [**`YIN-YANG`**](https://www.youtube.com/watch?v=JJNEvjwipO0), it shows the **co-existence** and more importantly **interdependence** of two opposing forces on each other. The TAO teaches that people are separate from their opinions, so when people have different viewpoints on an issue to you, you would not need to feel threatened. 
+The TAO; which is a philosophical/religious tradition with its origin in china depicts our world almost perfectly. It's popularly known as YIN-YANG, it shows the **co-existence** and more importantly **interdependence** of two opposing forces on each other. The TAO teaches that people are separate from their opinions, so when people have different viewpoints on an issue to you, you would not need to feel threatened. 
 
 The coldest hands belong to death, yet its necessity must be appreciated often. Many people on their death beds wished they could escape those freezing hands void of any empathy, but death is just, even when it's perceived to be unjust. Try to wrap your beautiful mind around an immortal race of humans from the dawn of time, how would the young ever rise to be of  any worth ? I presume it would a barbaric civilization if i had to contend for opportunities to high-school or work-place with the likes of Einstein. _Our world right now is perfectly imperfect. It's a dance of grief and joy, a song of ice and fire_. I would like to share short analogies, please follow through.
 
