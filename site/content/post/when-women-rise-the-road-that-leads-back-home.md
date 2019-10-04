@@ -14,7 +14,7 @@ description: >-
   makes my work different." May we never lose our wonder !! 
 image: /img/about-reinvest-profits.jpg
 ---
-You see that beautiful kids looking into the future in the picture above ? That's all of us. That look of hope for the future,when you know things may just go your way. I know some people opened this article to know what the topic pointed to, you may have to read a little further to find out because that was intentional lol! However, I like to be inclusive in my choice of words because the world has become much more sensitive and beautiful than it used to be, and I like to show a bit of growth in my writings. That topic would have read "When Men Rise", but then I would be having a bit of debate with my really close friends which I would rather not do over Facetime:).  Do you ever wonder how your life would be thirty years from today? Do you still see those relationships you have now playing a vital part of your future? Do you see yourself standing shoulder to shoulder with your childhood heroes? Do you still see yourself kneeling and praying to a father?
+You see that beautiful kid looking into the future in the picture above ? That's all of us. That look of hope for the future, when you know things may just go your way. I know some people opened this article to know what the topic pointed to, you may have to read a little further to find out because that was intentional lol! However, I like to be inclusive with my choice of words because the world has become much more sensitive and beautiful than it used to be, and I like to show a bit of growth in my writings. That topic would have read "When Men Rise", but then I would be having a bit of debate with my really close friends which I would rather not do over Facetime:).  Do you ever wonder how your life would be thirty years from today? Do you still see those relationships you have now playing a vital part of your future? Do you see yourself standing shoulder to shoulder with your childhood heroes? Do you still see yourself kneeling and praying to a father?
 
 The Future is something so far away, yet immensely close. The future is the next second and yet it's the next rising sun. If you are familiar with stories from the scripture, you should know the young man who slept in the prison one particular night, and at sunset of the next day, he was prime minister. I mean, look at Mandela Nelson of South Africa. The fact that your life could change in just a minute is absolutely fantastic,and it's much more thrilling, because you do not know exactly when that change would be. You are a seamstress or fashion-designer today with a ton of disappointed customers cussing you out for being so whack, and just three years down, by diligence and sheer happenstance, you are hand crafting the dress for the next royal wedding of England. You just never know when the future would be, and like you, I am so excited I don't. The future is now, and you should embrace its process, like Jon Bellion said "I guess if I knew tomorrow, I guess I wouldn't need faith"
 
@@ -30,6 +30,6 @@ In conclusion, When Women Rise, They Forget The Road Back To God, but you are no
 
 **PLEASE REMEMBER TO SUBSCRIBE, COMMENT AND SHARE, IF YOU ENJOYED THIS PIECE**
 
-****
+- - -
 
-****
+- - -
