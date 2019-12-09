@@ -1,6 +1,6 @@
 ---
-title: "The Wallflower Journal"
-subtitle: Personal blog by Doyin Owoniyi.
-image: /img/modern.jpg
+title: "My Thoughts..."
+subtitle: Daniel Moses.
+image: /img/danie.jpeg
 ---
 
