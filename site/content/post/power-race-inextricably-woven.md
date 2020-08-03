@@ -1,5 +1,5 @@
 ---
-title: 'Power & Race; Inextricably Woven '
+title: 'Power & Race (Part 1); Inextricably Woven '
 date: 2020-07-27T17:37:27.368Z
 description: >-
   What a year 2020 has been already for many of us, whatever opinions you have,
