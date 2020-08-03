@@ -1,5 +1,5 @@
 ---
-title: Power & Race; Privilege Used Wrongly.
+title: Power & Race (part 2); Privilege Used Wrongly.
 date: 2020-08-02T19:12:51.417Z
 description: >-
   I promised at the end of the last article to tell you about Milgram & O.J. I
